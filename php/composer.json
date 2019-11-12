@@ -1,0 +1,7 @@
+{
+  "require": {
+    "google/recaptcha": "~1.1",
+    "mailgun/mailgun-php": "@stable",
+    "swiftmailer/swiftmailer": "@stable"
+  }
+}
